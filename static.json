@@ -1,7 +1,4 @@
 {
-  "root": "/dist",
-  "routes": {
-    "/**": "index.html",
-    "/*.html": "index.html"
-  }
+  "root": "public",
+  "clean_urls": false
 }
